@@ -1,0 +1,277 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 99,
+    "major": 4,
+    "minor": 0,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "default",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": true,
+    "projectUuid": "d400ea19-1c75-4746-affd-24d6e0a9bd2b",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "useExternalSourceFiles": false,
+    "version": "1.0.0",
+    "name": "gravity-project",
+    "description": "",
+    "author": "",
+    "windowWidth": 1920,
+    "windowHeight": 1080,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 30,
+    "verticalSync": false,
+    "platformSpecificAssets": {},
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0.2,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "assets/Books.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Books.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Furniture/63f0621e6b0a7a8a7ee788a699ac0d0317eb45bc8c6efdcc241e9895cfeec425_Books.glb",
+          "name": "Books.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "player idle.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player idle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "player idle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk1.png\",\"extension\":\".png\"}",
+        "name": "player walk1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk2.png\",\"extension\":\".png\"}",
+        "name": "player walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk3.png\",\"extension\":\".png\"}",
+        "name": "player walk3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk4.png\",\"extension\":\".png\"}",
+        "name": "player walk4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk5.png\",\"extension\":\".png\"}",
+        "name": "player walk5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk6.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk6.png\",\"extension\":\".png\"}",
+        "name": "player walk6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk7.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk7.png\",\"extension\":\".png\"}",
+        "name": "player walk7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player walk8.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player walk8.png\",\"extension\":\".png\"}",
+        "name": "player walk8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "platform castle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "platform castle1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "platform castle2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"platform castle2.png\",\"extension\":\".png\"}",
+        "name": "platform castle2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player jump4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player jump4.png\",\"extension\":\".png\"}",
+        "name": "player jump4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player jump3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player jump3.png\",\"extension\":\".png\"}",
+        "name": "player jump3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player jump2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player jump2.png\",\"extension\":\".png\"}",
+        "name": "player jump2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player jump1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player jump1.png\",\"extension\":\".png\"}",
+        "name": "player jump1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player fall2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player fall2.png\",\"extension\":\".png\"}",
+        "name": "player fall2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "player fall1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"player fall1.png\",\"extension\":\".png\"}",
+        "name": "player fall1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/test_platform.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "test_platform",
+        "smoothed": false,
+        "userAdded": false
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/untitled-scene"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": [],
+  "externalSourceFiles": []
+}
